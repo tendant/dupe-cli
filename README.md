@@ -83,7 +83,7 @@ dupe-cli scan -d /path/to/dir -o json
 ### Set minimum match percentage for fuzzy matching
 
 ```bash
-dupe -cli scan -d /path/to/dir -m 90
+dupe-cli scan -d /path/to/dir -m 90
 ```
 
 ## Scan Types
